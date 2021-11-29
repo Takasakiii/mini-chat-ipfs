@@ -1,0 +1,6 @@
+Apenas um chat criado em cima das tecnologias IPFS e OrbitDb.
+
+Requer:
+  - IPFS ( https://ipfs.io/ )
+  - Ligar o IPFS PubSub
+
